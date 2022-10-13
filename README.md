@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xavier Delamotte</h1>
-<h3 align="center">To err is human, to really screw up you need a computer.</h3>
+<h3 align="center">🇫🇷 French Software Engineer living in London 🇬🇧. Play the French Horn 📯, Rugby 🏉, Chess ♛♟ and Video Games🕹, but not at the same time.</h3>
 
 <p align="center">
   <a href="https://twitter.com/x4d3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="x4d3" height="30" width="30"/></a>
