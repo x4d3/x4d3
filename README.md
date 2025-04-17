@@ -3,7 +3,7 @@
 
   🇫🇷 French Software Engineer living in London 🇬🇧
 
-  Play the French Horn 📯, Rugby 🏉, Chess ♟ and Video Games 🕹, but not at the same time
+  Plays the French Horn 📯, Rugby 🏉, Chess ♟ and Video Games 🕹, not at the same time
 
   <a href="https://mamot.fr/@xade" target="blank">Mastodon</a> -
   <a href="https://linkedin.com/in/xavierdelamotte" target="blank">Linkedin</a> - 
